@@ -1,4 +1,4 @@
-In this project,I predicted the cost of insurance based on following features using Random Forest with R2 of 0.87
+In this project,I predicted the cost of insurance based on following features using Random Forest with R2 score : 0.87 and OOB Score : 0.81
 
 
 Columns
